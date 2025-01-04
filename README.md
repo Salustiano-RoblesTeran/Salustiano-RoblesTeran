@@ -12,10 +12,10 @@ Soy estudiante de **Ingeniería Informática** y desarrollador **Full Stack** co
 ---
 
 ### 🛠️ Tecnologías y herramientas
-- **Frontend:** React, Bootstrap, Tailwind CSS
+- **Frontend:** React, NextJS, Bootstrap, Tailwind CSS
 - **Backend:** Node.js, Express.js, NestJS
 - **Bases de datos:** MongoDB, MySQL
-- **Otras:** Socket.IO, Excel (automatización con JS)
+- **Otras:** Socket.IO
 
 ---
 

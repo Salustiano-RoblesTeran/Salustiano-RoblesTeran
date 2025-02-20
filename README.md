@@ -1,35 +1,34 @@
 ### 👋 Hola, soy **Salustiano Robles Terán**  
-Soy estudiante de **Ingeniería Informática** y desarrollador **Full Stack** con experiencia en sistemas de gestión web y automatización. Me especializo en crear aplicaciones robustas y funcionales con **JavaScript, Node.js y React**.
+Soy estudiante de **Ingeniería Informática** y desarrollador **Backend**, especializado en la creación de APIs REST escalables y en la integración de bases de datos y sistemas de autenticación.  
 
 ---
 
-### 🚀 Sobre mí
-- 🎓 **4to año** de Ingeniería Informática en **UNSTA**
-- 💻 Desarrollador Full Stack con experiencia en **frontend y backend**
-- 📊 Automatización de sistemas de e-commerce y CRM
-- ⚡ Apasionado por la innovación y la resolución de problemas
+### 🚀 Sobre mí  
+- 🎓 **4to año** de Ingeniería Informática en **UNSTA**  
+- 💻 **Backend Developer** con experiencia en diseño y optimización de APIs REST  
+- 📊 Integración de bases de datos relacionales y no relacionales  
+- ⚡ Apasionado por la eficiencia, la escalabilidad y la arquitectura de software  
 
 ---
 
-### 🛠️ Tecnologías y herramientas
-- **Frontend:** React, NextJS, Bootstrap, Tailwind CSS
-- **Backend:** Node.js, Express.js, NestJS
-- **Bases de datos:** MongoDB, MySQL
-- **Otras:** Socket.IO
+### 🛠️ Tecnologías y herramientas  
+- **Lenguajes:** Java, JavaScript, TypeScript  
+- **Frameworks:** Spring Boot, Express.js  
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB  
+- **Autenticación y seguridad:** Spring Security, JWT  
+- **Infraestructura:** Docker, Redis  
 
 ---
 
-
-### 📩 Contacto
-- ✉️ **Email:** [saluroblesteran@gmail.com](mailto:saluroblesteran@gmail.com)  
-- 🔗 **LinkedIn:** [Salustiano Robles Terán](https://www.linkedin.com/in/salustiano-robles-teran-1b815920a/)  
+### 💎 Contacto  
+- ✉ **Email:** [saluroblesteran@gmail.com](mailto:saluroblesteran@gmail.com)  
+- 📞 **LinkedIn:** [Salustiano Robles Terán](https://www.linkedin.com/in/salustiano-robles-teran-1b815920a/)  
 
 ---
 
-### 🌱 Actualmente aprendiendo
-- 📚 Profundizando en **NestJS** y **arquitectura de microservicios**  
-- 🔍 Explorando **inteligencia artificial y automatización avanzada**
+### 🌱 Actualmente aprendiendo  
+- 📚 Profundizando en **arquitectura de microservicios** con Spring Boot y Kafka  
+- 🔍 Explorando **despliegue en la nube** con AWS  
 
-Gracias por visitar mi perfil. Siempre estoy abierto a colaborar en proyectos innovadores y desafiantes.  
-✨ **Creando sin límites.** ✨
-
+Siempre estoy abierto a colaborar en proyectos innovadores y desafiantes.  
+✨ **Construyendo soluciones escalables.** ✨

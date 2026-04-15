@@ -1,22 +1,22 @@
 ### 👋 Hola, soy **Salustiano Robles Terán**  
-Soy estudiante de **Ingeniería Informática** y desarrollador **Backend**, especializado en la creación de APIs REST escalables y en la integración de bases de datos y sistemas de autenticación.  
-
+Soy estudiante de Ingeniería Informática y desarrollador Backend con una mentalidad orientada a producto y a sistemas reales. Me enfoco en construir APIs bien diseñadas, con lógica de negocio consistente y escalable, y en asegurar su correcto funcionamiento en producción.
+Trabajo habitualmente con contenedores, Kubernetes y configuraciones de servidor, lo que me permite no solo desarrollar software, sino también desplegarlo, operarlo y optimizarlo en entornos reales.
 ---
 
 ### 🚀 Sobre mí  
-- 🎓 **4to año** de Ingeniería Informática en **UNSTA**  
-- 💻 **Backend Developer** con experiencia en diseño y optimización de APIs REST  
+- 🎓 **5to año** de Ingeniería Informática en **UNSTA**  
+- 💻 **Backend Developer** con experiencia en API REST e Infraestructura
 - 📊 Integración de bases de datos relacionales y no relacionales  
 - ⚡ Apasionado por la eficiencia, la escalabilidad y la arquitectura de software  
 
 ---
 
 ### 🛠️ Tecnologías y herramientas  
-- **Lenguajes:** Java, JavaScript, TypeScript  
-- **Frameworks:** Spring Boot, Express.js  
-- **Bases de datos:** MySQL, PostgreSQL, MongoDB  
+- **Lenguajes:** Java, TypeScript  
+- **Frameworks:** Spring Boot, Node, Express.js  
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB 
 - **Autenticación y seguridad:** Spring Security, JWT  
-- **Infraestructura:** Docker, Redis  
+- **Infraestructura:** Docker, Kubernetes  
 
 ---
 
@@ -24,11 +24,4 @@ Soy estudiante de **Ingeniería Informática** y desarrollador **Backend**, espe
 - ✉ **Email:** [saluroblesteran@gmail.com](mailto:saluroblesteran@gmail.com)  
 - 📞 **LinkedIn:** [Salustiano Robles Terán](https://www.linkedin.com/in/salustiano-robles-teran-1b815920a/)  
 
----
 
-### 🌱 Actualmente aprendiendo  
-- 📚 Profundizando en **arquitectura de microservicios** con Spring Boot y Kafka  
-- 🔍 Explorando **despliegue en la nube** con AWS  
-
-Siempre estoy abierto a colaborar en proyectos innovadores y desafiantes.  
-✨ **Construyendo soluciones escalables.** ✨
